@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/country_guessing_reactapp/static/css/main.db5b3269.chunk.css",
+    "main.js": "/country_guessing_reactapp/static/js/main.95bfb77c.chunk.js",
+    "main.js.map": "/country_guessing_reactapp/static/js/main.95bfb77c.chunk.js.map",
+    "runtime~main.js": "/country_guessing_reactapp/static/js/runtime~main.6af80933.js",
+    "runtime~main.js.map": "/country_guessing_reactapp/static/js/runtime~main.6af80933.js.map",
+    "static/js/2.1c1fd390.chunk.js": "/country_guessing_reactapp/static/js/2.1c1fd390.chunk.js",
+    "static/js/2.1c1fd390.chunk.js.map": "/country_guessing_reactapp/static/js/2.1c1fd390.chunk.js.map",
+    "index.html": "/country_guessing_reactapp/index.html",
+    "precache-manifest.1e4de3c9cd1f7ca091659fc5ba00be69.js": "/country_guessing_reactapp/precache-manifest.1e4de3c9cd1f7ca091659fc5ba00be69.js",
+    "service-worker.js": "/country_guessing_reactapp/service-worker.js",
+    "static/css/main.db5b3269.chunk.css.map": "/country_guessing_reactapp/static/css/main.db5b3269.chunk.css.map",
+    "static/media/world.jpg": "/country_guessing_reactapp/static/media/world.41c62db0.jpg"
+  }
+}
